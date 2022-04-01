@@ -1,16 +1,15 @@
-### Hi there 👋
+### Gako358
 
-<!--
-**Gako358/gako358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a:
+- Student, Computer Science at the Artic University.
+- Vim enthusiast, always looking to improve my workflow with vim.
+- Languages I use is: C, Python and some Javascript and Html
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact Information:
+- Email: `gako358 <at> outlook.com`
+- Discord: `MerrinX MerrinX#9347`
+
+#### Projects:
+
+- 🔭 I’m currently learning Rust
