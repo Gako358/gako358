@@ -12,4 +12,4 @@ I am a:
 
 #### Projects:
 
-- 🔭 I’m currently learning Rust
+- 🔭 I’m currently learning Rust and Lua
