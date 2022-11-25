@@ -1,9 +1,11 @@
 ### Gako358
 
 I am a:
-- Student, Computer Science at the Artic University.
+- System Developer @hnikt | Fullstack Developer.
 - Vim enthusiast, always looking to improve my workflow with vim.
-- Languages I use is: C, Python and some Javascript and Html
+- Languages I use is: C, Java, Python and SQL
+
+`Just be cautious, or one day you might find yourself screaming, "WHERE did all my data go?!"`
 
 
 #### Contact Information:
@@ -25,6 +27,6 @@ I am a:
 
 
 ## Dotfiles
-My personal NixOS and flakes, for system configurations
+My personal [NixOS and flakes](https://github.com/Gako358/dotfiles), for system configurations
 
-[![image](https://github.com/Gako358/archive/blob/main/Pictures/Images/gnome.png)](https://github.com/Gako358/dotfiles)
+[![image](https://github.com/Gako358/archive/blob/main/images/config/dwm.png)](https://github.com/Gako358/dotfiles)
