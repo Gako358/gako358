@@ -33,7 +33,7 @@ As a Vim enthusiast, I'm continually seeking ways to refine my workflow and mast
 > NixOS is a Linux distribution that offers a unique approach to package and configuration management.
 > Built on top of the Nix package manager, it's revolutionizing the way we interact with our operating systems.
 
-[![image](https://github.com/Gako358/archive/blob/main/images/config/dwm.png)](https://github.com/Gako358/dotfiles)
+[![image](https://github.com/Gako358/archive/blob/main/images/config/main.png)](https://github.com/Gako358/dotfiles)
 
 ## Start your Hacking journey
 
